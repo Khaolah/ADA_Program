@@ -1,2 +1,5 @@
-# TASK17
-AN assignment from ADA Software Engineering program on Turple methods
+# TASK14 (DATA STRUCTURE)
+
+This repository contains assignment that was given in the ADA Software Engineering Project
+
+The assignment is to practice 5 different Turple methods
